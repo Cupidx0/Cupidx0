@@ -26,6 +26,7 @@ with a news website outputting entertainment and also stocks data for 3 differen
 of APIS.
 **TECH:** 
 Html,Javascript,Css,Json
+---
 You can check out my work on my [portfolio](https://myportfolio-nine-pi-61.vercel.app/index.html).
 
 ---
@@ -34,7 +35,7 @@ You can check out my work on my [portfolio](https://myportfolio-nine-pi-61.verce
 ### 👕 Outfit Generator
 Helps you track what clothes you own and gives outfit suggestions.  
 **Tech:** React, Firebase
-
+---
 
 ## ⚙️ What I'm Learning
 
