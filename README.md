@@ -24,8 +24,8 @@ helps users find the buses going to their location and also the routes they take
 helps user get weather information for upto five days in advance and also changes depending on the weather 
 with a news website outputting entertainment and also stocks data for 3 different stocks using the integration 
 of APIS.
-**TECH:** 
-Html,Javascript,Css,Json
+**TECH:** Html,Javascript,Css,Json
+
 ---
 You can check out my work on my [portfolio](https://myportfolio-nine-pi-61.vercel.app/index.html).
 
