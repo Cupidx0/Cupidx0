@@ -30,8 +30,7 @@ of APIS.
 You can check out my work on my [portfolio](https://myportfolio-nine-pi-61.vercel.app/index.html).
 
 ---
-## 🚧 Projects I'm Working On
-
+##[New Project]
 ### 👕 Outfit Generator
 Helps you track what clothes you own and gives outfit suggestions.  
 **Tech:** React, Firebase
