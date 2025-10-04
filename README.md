@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Godwin Alamu
 
-I'm a Front-End Developer currently studying **Digital Design and Development (T-LEVELS)**. I enjoy building responsive and useful websites, and I'm constantly improving my skills by working on real projects.
+I'm a Software Developer currently studying **Digital Design and Development (T-LEVELS)**. I enjoy building responsive and useful websites, and I'm constantly improving my skills by working on real projects.
 
 ---
 
